@@ -9,6 +9,9 @@ processed-data/
 # HTML
 *.html
 
+# targets folder
+_targets/
+
 # History files
 .Rhistory
 .Rapp.history
